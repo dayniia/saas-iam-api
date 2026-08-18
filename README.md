@@ -2,7 +2,7 @@
 
 > **Multi-tenant Identity & Access Management backend** — JWT auth with refresh-token rotation and reuse detection, organisation isolation, database-driven RBAC, invitation flow, session management, and audit logs.
 
-Built as a portfolio project to demonstrate the kind of auth/authorisation infrastructure that real SaaS products run on. The stack is FastAPI + PostgreSQL + Redis, fully containerised, with an integration test suite covering every security boundary.
+Built as to demonstrate the kind of auth/authorisation infrastructure that real SaaS products run on. The stack is FastAPI + PostgreSQL + Redis, fully containerised, with an integration test suite covering every security boundary.
 
 ---
 
